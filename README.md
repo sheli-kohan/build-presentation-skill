@@ -1,6 +1,10 @@
 # `build-presentation` — a Claude Code skill
 
+![Vector studying a Why → How → What story arc, with the slides dimmed in the background](./assets/hero.png)
+
 A presentation-coach skill for [Claude Code](https://claude.com/claude-code) that turns a rough idea into a memorable, story-driven talk. It blends storytelling craft (Pixar / TED) with Simon Sinek's **Why → How → What**, and walks you through 8 numbered steps interactively — never one-shot dumping a deck on you.
+
+> **Story before slides.** That's the whole skill in three words.
 
 You bring the rough story and the audience. The skill does:
 
